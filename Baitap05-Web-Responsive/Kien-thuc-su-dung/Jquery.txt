@@ -1,0 +1,17 @@
+﻿=== Sử dụng Jquery để viết hiệu ứng===
+-ham 1: ham $(window).height() == do cao man hinh
+-ham 2: ham css ({'height':'900'})
+-ham 3: $(window).resize()
+-ham 4: click
+-ham 5: addClass
+-ham 6: removeClass()
+-ham 7: tinh vi tri: $(ten).offset().top
+-ham 8: cuon chuot: $('body').animate({scrollTOp:400});
+
+
+-tan cong truc  tuyen thu dong
+-rainbow attack
+-DNA: tan cong tu choi dich vu phan tan DDoS
+-Non-electric: Tan cong phi dien tu, hack mk offline, shoulder surfing
+-Guessing: doan mk
+-

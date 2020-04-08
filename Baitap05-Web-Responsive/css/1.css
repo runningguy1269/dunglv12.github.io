@@ -1,0 +1,268 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+span.iconclose {
+   
+    padding: 15px;
+   
+    width: 50px;
+    height: 50px;
+    background: rgba(52,58,64,.5);
+    line-height: 20px;
+    border-radius: 5px;
+
+}
+
+
+
+.menuphai.ra {
+    right: 0px;
+}
+
+
+
+.menuphai h2 {
+    font-size: 20px;
+    padding: 20px;
+    background: #1f7996;
+    line-height: 50px;
+   
+}
+
+.menudoc a {
+    color: #fff;
+    padding: 20px 20px;
+    display: block;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+
+
+ul.menudoc {
+    list-style-type: none;
+}
+
+.menuphai {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    background: #1D809F;
+    height: 900px;
+    width: 240px;
+    color: #fff;
+    z-index: 3;
+    transition: all 0.5s;
+    right: -250px;
+}
+
+
+.nutmenu a {
+    color: #fff;
+    font-size: 16px;
+}
+
+.nutmenu {position: fixed;top: 15px;right: 15px;padding:15px;width: 50px;height: 50px;text-align: center;line-height: 20px; background: rgba(52,58,64,.5);border-radius: 5px;}
+
+
+.nutmenu:hover{
+    background: black;
+}
+
+.footer .xahoi a {
+    border: 1px solid #1d809f;
+    color: #fff;
+    background-color: #1d809f;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    border-radius: 50%;
+}
+
+footer.footer {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.nenxanh a {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.nenxanh h4 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+
+.top5 p {
+    color: #fff;
+    font-size: large;
+}
+
+.top5 h5 {
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+
+.duoiphai {
+    padding-top: 250px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.trenphai {
+    padding-top: 250px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.duoitrai {
+    padding-top: 250px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.trentrai {
+    padding-top: 250px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+.top5 .tieude5 {
+    padding-top: 120px;
+    padding-bottom: 50px;
+}
+
+.top4 h1 {
+    font-size: 55px;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+
+.top4 {
+    padding: 300px 0;
+    background: url(../Image/bg-callout.jpg);
+}
+
+._4cot h3 {
+    color: #fff;
+    font-size: 23px;
+    font-weight: 600;
+    margin-top: 21px;
+}
+
+._4cot {
+    margin-top: 60px;
+}
+
+._4cot p {
+    color: #bcd9e2;
+    font-size: 17px;
+}
+
+.iconto i {
+    font-size: 30px;
+    color: #1D809F;
+    border: 3px solid #fff;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    border-radius: 50%;
+    background: #fff;
+}
+
+.tieudetop3 h3 {
+    color: #fff;
+    font-size: 52px;
+    font-weight: 600;
+}
+
+.top3 h6 {
+    color: #ECB807;
+    font-weight: 700;
+    font-size: large;
+}
+
+.top3 {
+    background-color: #1D809F;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.top2 h2 {
+    font-weight: 700;
+}
+
+
+.top2 {
+    padding-top: 158px;
+    padding-bottom: 148px;
+}
+
+.top1 a.btn.btn-info {
+    color: #fff;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.top1 p {
+    font-size: 24px;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.top1 h1 {
+    font-size: 77px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.top5 .trentrai{
+    background: url(../Image/portfolio-1.jpg);
+}
+.top5 .trenphai{
+    background: url(../Image/portfolio-2.jpg);
+}
+.top5 .duoitrai{
+    background: url(../Image/portfolio-3.jpg);
+}
+.top5 .duoiphai{
+    background: url(../Image/portfolio-4.jpg);
+}
+.nenxanh{
+    background-color: #1D809F;
+    margin-top: 100px;
+    padding-top: 140px;
+    padding-bottom: 130px;
+}
+body{font-family: 'Source Sans Pro', sans-serif;}
+
+.tieude5 h3 {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.tieude5 h6 {
+    color: #ecb807;
+    font-weight: 600;
+}
+
+.top2 p {font-size: -10px;/* color: black; */}
+
+.top2 p {
+    font-size: 19px;
+    font-weight: 100;
+}
+
+.top1{
+    padding-top: 250px;
+   padding-bottom: 200px;
+    background: url(../Image/bg-masthead.jpg);
+    background-size: cover;
+    height: 700px;
+}

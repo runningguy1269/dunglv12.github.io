@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.foot {
+    padding-bottom: 40px;
+}
+
+.foot small {
+    color: grey;
+}
+
+.menutrai li {
+    float: left;
+    margin-right: 22px;
+    list-style-type: none;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.nenanh2 h1 {
+    font-size: 40px;
+    font-weight: 900;
+    text-shadow: 1px 1px 0 black;
+}
+
+.nenanh2 {
+    padding: 100px 0;
+    background: url(../Image/banner-bg.jpg);
+    color: #f8f8f8;
+    background-size: cover;
+}
+
+.nenxam2 h3 {
+    padding-top: 25px;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+
+.nenxam2 {
+    padding: 60px 0;
+    background: #f8f8f8;
+}
+
+.nentrang1 p {
+    font-size: 18px;
+}
+
+.nentrang1 h3 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px;
+}
+
+.nentrang1 b {
+}
+
+.nentrang1 {
+    padding: 60px 0;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.nenxam1 p {
+    font-size: 18px;
+}
+
+.nenxam1 h3 {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    font-size: 30px;
+}
+
+hr.ngan {
+    width: 40%;
+    background: black;
+    border-top: 4px solid #e7e7e7;
+    margin-bottom: 10px;
+}
+
+.nenxam1 {
+    padding: 60px 0;
+    background: #F8F8F8;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.nenanh1 h1 {
+    font-size: 70px;
+    font-weight: 600;
+    text-shadow: 1px 1px 0px black;
+}
+
+.nenanh1 {
+    padding-top: 230px;
+    padding-bottom: 280px;
+    background: url(../Image/intro-bg.jpg);
+    color: #fff;
+}
+
+.nenanh1 p {
+    font-size: 18px;
+    text-shadow: 0px 1px 0px black;
+}
+.cotphai{
+    margin-top: 10px;
+}
+
+
+body{font-family: 'Lato',sans-serif;}

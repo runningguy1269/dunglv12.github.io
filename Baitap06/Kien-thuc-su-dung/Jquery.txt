@@ -1,0 +1,16 @@
+﻿========Kien thuc su dung Bootstrap: grid, button,...
+
+========Kien thuc su dung css de dinh nghia lai css cua bootstrap: su dung css cho nen, text, di chuot hover,...
+
+========Kien thuc hieu ung Jquery:
+-Ham animate cho html: $('html').animate({scrollTop:900})
+-Ham tinh vi tri cua 1 phan tu: $('tenphantu').offset().top
+-Su kien Click: $('ten nut').click(function(){})
+-Su kien cuon chuot: $('window').scroll()
+-Ham addClass
+-scrollfix => tu dong nhan dien vi tri de thay doi menu
+
+-scroll spy: khi di chuyển đến vùng giao diện thì tự động thay đổi class của menu:
++) data-spy="scroll" : để body theo dõi việc scroll chuột
++) data-target="navbar" :navbar là 1 class của menu đó, lựa chọn class mục tiêu để hiệu ứng hoạt động
++) data-offset="50": tọa độ dữ liệu  = 50: trước khi đến vị trí đó 50px thì thay đổi menu

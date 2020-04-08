@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+button.nutmenu {
+    color: #fff;
+    font-size: 13px;
+    border: 1px solid #1abc9c;
+    padding: 10px 10px;
+    border-radius: 7px;
+    text-transform: uppercase;
+    font-weight: 600;
+    background: #1abc9c;
+}
+
+.ft p {
+    color: #fff;
+    font-size: 12px;
+}
+
+footer.ft {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background: #1a252f;
+}
+
+.nen6 p {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.symbol i:hover {background: #fff;color: black;}
+
+.symbol i {
+    color: #fff;
+    font-size: 20px;
+    border: 2px solid #fff;
+    width: 50px;
+    height: 50px;
+    line-height: 46px;
+    border-radius: 50px;
+}
+
+.nen6 h3 {
+    color: #fff;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.nen6 {
+    background: #2c3e50;
+    padding: 90px 0;
+}
+
+.btnSend {
+    background: #1abc9c;
+    border-radius: 10px;
+    border: 1px solid #1abc9c;
+    color: #fff;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.contactme textarea {
+    font-size: 22px;
+    color: #acb6c0;
+    padding: 10px 5px;
+    border: none;
+    width: 100%;
+    height: 200px;
+    border-bottom: 1px solid #acb6c0;
+}
+
+input.form-control {
+    border: 0px solid;
+    box-shadow: 0 0 0 transparent;
+    border-bottom: 1px solid #acb6c0;
+    padding: 30px 5px;
+    display: block;
+    color: #acb6c0;
+    font-size: 22px;
+}
+
+.contactme h2 {
+    font-size: 47px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.contactme {
+    padding-top: 100px;
+    padding-bottom: 90px;
+}
+
+.nen4 a.btn.btn-outline-light {
+    font-size: 18px;
+    padding: 15px;
+    border: 2px solid #fff;
+    font-weight: 500;
+}
+
+.nen4 p {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.ngoisao i.fas.fa-star {font-size: xx-large;}
+
+.nen4 h2 {
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fff;
+}
+
+i.fas.fa-star.mr-3 {
+    color: #fff;
+    font-size: xx-large;
+}
+
+.nen4 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #1abc9c;
+}
+
+.nen3 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    transition: all 0.5s;
+    opacity: 0;
+   /* transform: translateY(300px);*/
+}
+
+div#sanpham.bienra {
+    opacity: 1;
+    /*transform: translateY(0px);*/
+}
+
+.nen3 h2 {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.nen3 i.fas.fa-star.mr-3 {
+    font-size: xx-large;
+}
+
+.ngoisao {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.nen2 i.fas.fa-star {
+    color: #fff;
+    font-size: xx-large;
+}
+
+.nen2 p {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.nen2 h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 65px;
+}
+
+hr.duongke3{
+    border: 2px solid black;
+    width: 10%;
+}
+
+hr.duongke2 {
+    border: 2px solid #fff;
+    width: 10%;
+}
+
+hr.duongke1 {border: 2px solid #fff;width: 10%;}
+
+.nen2 {
+    background: #1abc9c;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+.nentop1{
+    background: #2c3e50;
+    height: 110px;
+    transition: all 0.3s;
+}
+
+nav#navbar-example2.tienhoa {
+    height: 70px;
+}
+
+a.tieude {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.menuphai a.nav-link {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.menuphai a.nav-link:hover{
+    color: #1abc9c;
+}
+
+
+ul.menuphai {
+   line-height: 70px;
+}
+
+nav.navbar.mavbar-expandd-lg{
+    height: 111px;
+    background: #2d3e50;
+}
+body{
+    position: relative;
+    font-family: 'Montserrat',sans-serif;
+}
