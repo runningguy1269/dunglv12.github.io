@@ -1,0 +1,81 @@
+﻿@{
+    Layout = null;
+var pagedList = (IPagedList)Model;
+}
+@model IEnumerable<MVCSample.Business.Entities.Product>
+@using X.PagedList.Mvc.Core;
+@using X.PagedList.Mvc.Core.Common;
+@using X.PagedList;
+<link href="~/assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<script src="~/assets/global/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="~/assets/global/plugins/owl-carousel/assets/js/jquery-1.9.1.min.js"></script>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <form>
+                <table id="tblProduct" class="table table-hover table-bordered">
+                    <thead>
+
+                        <tr>
+                            <th>Id</th>
+                            <th>Tên hàng</th>
+                            <th>Nhà cung cấp</th>
+                            <th>Danh mục</th>
+                            <th>Quy cách</th>
+                            <th>Đơn giá</th>
+                            <th>Đơn vị lưu kho</th>
+                            <th>Đơn vị xuất bán</th>
+                            <th>Mức độ đặt hàng lại</th>
+                            <th>Giảm giá</th>
+                            <th>Hành động</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var p in Model)
+                    {
+
+
+                        <tr>
+                            <td>@Html.DisplayFor(model => p.product_id)</td>
+                            <td style="width:60%;">@Html.DisplayFor(model => p.product_name)</td>
+                            <td style="width:60%;">@Html.DisplayFor(model => p.Supplier.company_name)</td>
+                            <td style="width:60%;">@Html.DisplayFor(model => p.Category.category_name)</td>
+                            <td style="width:60%;">@Html.DisplayFor(model => p.quantity_per_unit)</td>
+                            <td style="width:60%;">@Html.DisplayFor(model => p.unit_price)</td>
+                            <td style="width:60%;">@Html.DisplayFor(model => p.units_in_stock)</td>
+                            <td style="width:60%;">@Html.DisplayFor(model => p.units_on_order)</td>
+                            <td style="width:60%;">@Html.DisplayFor(model => p.reorder_level)</td>
+                            <td style="width:60%;">@Html.DisplayFor(model => p.discontinued)</td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", new { id = p.product_id }, new { @class = "btn btn-primary", @style = "color:white" })
+
+
+                                <a data-id="@p.product_id" class="btn btn-danger" style="color:white">Delete</a>
+                            </td>
+                        </tr>
+
+                    }
+                    </tbody>
+                </table>
+
+            </form>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            Trang @(pagedList.PageCount < pagedList.PageNumber ? 0 : pagedList.PageNumber) / @pagedList.PageCount
+            @Html.PagedListPager((IPagedList)Model, page => Url.Action("Index", new
+            {
+            page
+            }))
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+

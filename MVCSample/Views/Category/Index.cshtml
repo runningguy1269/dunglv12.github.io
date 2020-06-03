@@ -1,0 +1,185 @@
+﻿@{
+    Layout = null;
+
+}
+@model IEnumerable<MVCSample.Business.Entities.Category>
+
+
+<link href="~/assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<script src="~/assets/global/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="~/assets/global/plugins/owl-carousel/assets/js/jquery-1.9.1.min.js"></script>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="show-menu-arrow">
+                <br />
+                <p>
+                    @Html.ActionLink("+ Thêm mới", "Create", "", htmlAttributes: new { @class = "btn btn-success" })
+                </p>
+                <h2 class="text-center text-uppercase">Danh mục</h2>
+
+          
+                    <div class="btn-group form-actions no-color">
+                        <header id="clearSearch">
+                            Tên danh mục:
+                            <input id="txtSearch" type="search" name="SearchString" value="@ViewData[" CurrentFilter"]" />
+                            <span style="font-size:22px;">&times;</span>
+                            <input id="btnSubmit" type="button" value="Tìm kiếm" class="btn btn-default" />
+                        </header>
+                    </div>
+          
+            </div>
+        </div>
+    </div>
+    <div id="main_table">
+
+    </div>
+
+</div>
+
+<style>
+    #clearSearch {
+        position: relative;
+    }
+
+        #clearSearch span {
+            position: absolute;
+            top: 0px;
+            left: 260px;
+            display: none;
+            cursor: pointer;
+        }
+</style>
+<script>
+    var toggleClearSearch = function () {
+        if ($("#txtSearch").val().length > 0) {
+            $("#clearSearch span").css("display", "block");
+        }
+        else {
+            $("#clearSearch span").css("display", "none");
+        }
+    }
+
+    var deleteBtnX = function () {
+        var value = $("#txtSearch").val();
+        if (value.length > 0) {
+            $("#txtSearch").val('');
+            showTable();
+            $(this).css("display", "none");
+            $("#txtSearch").focus();
+        }
+    }
+
+    var backIndex = function () {
+        if (this.value.length == "") {
+            showTable();
+        }
+    }
+
+    var reActivePagination = function () {
+        $("ul.pagination li a").on('click', function () {
+          
+            var p = $(this).text();
+            $("ul.pagination li").removeClass('active');
+            var parent = $(this).parents('li');
+            parent.addClass('active');
+            parent.html('<span>' + p + '</span>');
+            //showTable();
+        });
+    }
+
+    var showTable = function () {
+        var keyword = $("#txtSearch").val();
+        //var page = window.location.search.slice(1).split("=")[1];
+        var page = $("ul.pagination li.active span").text();
+        $("#main_table").html("Đang tải....");
+        $.get("/category/GetTable?searchString=" + keyword + "&page=" + page + "").then(xhr => {
+            $("#main_table").html(xhr);
+            reActivePagination();
+
+            $("[data-id]").on('click', deleteItem);
+        });
+    }
+
+
+    var searchItem = function (e) {
+        e.preventDefault(e);
+        var value = $("#txtSearch").val();
+        var page = $("ul.pagination li.active span").text();
+        var url = "/Category/GetTable?searchString=" + value + "&page="+page+"";
+        if (value.length > 0) {
+            $.ajax({
+                type: 'GET',
+                url: url,
+                contentType: "application/json;charset=utf-8",
+                data: { searchString: value },
+                success: function (response) {
+                    showTable(response);
+                },
+                error: function (response) {
+                    alert("Error");
+                }
+            });
+        }
+    };
+
+
+
+    var deleteItem = function () {
+        var result = confirm("Bạn có muốn xóa không ?");
+        if (result == true) {
+            var categoryId = $(this).attr("data-id");
+            var url = "/Category/Delete?id=" + categoryId;
+            $.ajax({
+                type: "GET",
+                url: url,
+                //data: { id: categoryId },
+                contentType: "application/json;charset=utf-8",
+                dataType: "JSON",
+                success: function (res) {
+                    if (res.success) {
+                        alert(res.message);
+                        showTable();
+
+                    }
+                    else {
+                        alert(res.message);
+                    }
+                }
+
+            })
+        }
+        else {
+            return false;
+        }
+    };
+
+
+    $(document).ready(function () {
+        showTable();
+
+
+        toggleClearSearch();
+
+        $("#btnSubmit").on('click', searchItem);
+
+        $("#txtSearch").on("input", toggleClearSearch);
+
+
+        $("#clearSearch span").on('click', deleteBtnX);
+
+
+        $("#txtSearch").on("change", backIndex);
+
+    });
+
+</script>
+
+
+
+
+
+
+
+

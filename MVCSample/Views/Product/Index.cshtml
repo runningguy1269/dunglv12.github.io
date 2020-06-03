@@ -1,0 +1,215 @@
+﻿@{
+    Layout = null;
+}
+
+@*@model IPagedList<Product>*@
+@model IEnumerable<MVCSample.Business.Entities.Product>
+@using X.PagedList.Mvc.Core;
+@using X.PagedList.Mvc.Core.Common;
+@using X.PagedList;
+<link href="~/assets/global/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<script src="~/assets/global/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="~/assets/global/plugins/owl-carousel/assets/js/jquery-1.9.1.min.js"></script>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <br />
+            <p>
+                @Html.ActionLink("+ Thêm mới", "Create", "", htmlAttributes: new { @class = "btn btn-success" })
+            </p>
+            <h2 class="text-center text-uppercase">Danh sách sản phẩm</h2>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div>
+             
+                    <div class="btn-group form-actions no-color">
+                        <header id="clearSearch">
+                            Tìm:
+                            <input id="txtSearch" type="text" name="SearchString" value="@ViewData["CurrentFilter"]" />
+                            <span style="font-size:22px;">&times;</span>
+                            <input id="btnSearch" type="button" value="Tìm kiếm" class="btn btn-info" />
+
+                        </header>
+                    </div>
+                
+            </div>
+        </div>
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-4">
+            <select value="@ViewData["CategoryId"]" type="text" class="form-control" name="category_id" id="categoryList">
+                <option value="0">Tất cả</option>
+                @foreach (var p in @ViewBag.GetCategory)
+                {
+                    <option value="@p.category_id">@p.category_name</option>
+                }
+            </select>
+        </div>
+    </div>
+    <div id="main_table">
+
+    </div>
+    @*@await  Html.PartialAsync("_ResultTable")*@
+</div>
+<style>
+    #clearSearch {
+        position: relative;
+    }
+
+        #clearSearch span {
+            position: absolute;
+            top: 0px;
+            left: 195px;
+            display: none;
+            cursor: pointer;
+        }
+</style>
+<script>
+    var showTable = function () {
+        var keyword = $("#txtSearch").val();
+        var page = window.location.search.slice(1).split("=")[1];
+
+        $("#main_table").html("Đang tải....");
+        $.get("/product/GetTable?searchString=" + keyword + "&page=" + page + "").then(xhr => {
+            $("#main_table").html(xhr);
+            $("[data-id]").on('click', deleteProduct);
+
+        });
+    };
+
+    var comeBackUrl = function () {
+        $("#main_table").html("Đang tải....");
+        $.get("/product/GetTable").then(xhr => {
+            $("#main_table").html(xhr);
+        });
+    };
+
+
+    var toggleClearSearch = function () {
+        if ($("#txtSearch").val().length > 0) {
+            $("#clearSearch span").css("display", "block");
+        } else {
+            $("#clearSearch span").css("display", "none");
+        }
+    };
+
+    var showTableCateName = function () {
+        var keyword = $("#txtSearch").val();
+        var cateId = $("#categoryList").val();
+        var page = window.location.search.slice(1).split("=")[1];
+        $("#main_table").html("Đang tải....");
+        $.get("/product/GetTable?searchString=" + keyword + "&cateId=" + cateId + "&page=" + page + "").then(xhr => {
+            $("#main_table").html(xhr);
+        });
+    }
+
+
+    var changeCateName = function () {
+        //var keyword = $("input[name=SearchString]").val();
+        //var catId = $("#categoryList").val();
+        //$(location).attr('href', "/Product/Index?searchString=" + keyword + "&catId=" + catId);
+        var selected = $(this).children("option:selected").val();
+        if (selected > 0) {
+            showTableCateName();
+        }
+    };
+
+    var deleteBtnX = function () {
+        var value = $("#txtSearch").val();
+        if (value.length > 0) {
+            $("#txtSearch").val('');
+            comeBackUrl();
+            $(this).css("display", "none");
+            $("#txtSearch").focus();
+        }
+    };
+
+    var backIndex = function () {
+        if (this.value.length == "") {
+            comeBackUrl();
+        }
+    };
+
+
+
+    var searchItem = function (e) {
+        e.preventDefault(e);
+        var value = $("#txtSearch").val();
+        var page = window.location.search.slice(1).split("=")[1];
+        var url = "/Product/Index?searchString=" + value + "&page=" + page + "";
+        if (value.length > 0) {
+            $.ajax({
+                type: 'GET',
+                url: url,
+                contentType: "application/json;charset=utf-8",
+                data: { searchString: value, page: page },
+                success: function (response) {
+                    showTable(response);
+                },
+                error: function (response) {
+                    alert("Error");
+                }
+            });
+        }
+    };
+
+    var deleteProduct = function () {
+        var result = confirm("Bạn có muốn xóa không ?");
+        if (result == true) {
+            var productId = $(this).attr("data-id");
+            var url = "/Product/Delete";
+            $.ajax({
+                type: "GET",
+                url: url,
+                data: { id: productId },
+                contentType: "application/json;charset=utf-8",
+                dataType: "JSON",
+                success: function (res) {
+                    if (res.success) {
+                        alert(res.message);
+                        showTable();
+                    }
+                    else {
+                        alert(res.message);
+                    }
+                }
+            });
+        }
+        else {
+            return false;
+        }
+    };
+    $(document).ready(function () {
+        showTable();
+        toggleClearSearch();
+
+        $("#txtSearch").on("input", toggleClearSearch);
+
+        //$("#btnSearch").on('click', SearchValue);
+
+        //$("[data-id]").on('click', deleteProduct);
+
+        $("#btnSearch").on('click', searchItem);
+
+        $("#categoryList").on("change", changeCateName);
+
+        $("#clearSearch span").on('click', deleteBtnX);
+
+        $("#txtSearch").on("change", backIndex);
+
+    });
+</script>
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp3.0\MVCSample.csprojAssemblyReference.cache
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp3.0\MVCSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp3.0\MVCSample.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp3.0\MVCSample.AssemblyInfo.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp3.0\MVCSample.TagHelpers.input.cache
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp3.0\MVCSample.TagHelpers.output.cache
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp3.0\MVCSample.dll
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp3.0\MVCSample.pdb

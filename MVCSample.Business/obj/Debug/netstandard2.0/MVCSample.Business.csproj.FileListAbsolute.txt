@@ -1,0 +1,60 @@
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.deps.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.dll
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.csprojAssemblyReference.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.AssemblyInfoInputs.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.AssemblyInfo.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.pdb
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.dll
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.pdb
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.deps.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.dll
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.pdb
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.AssemblyInfoInputs.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.AssemblyInfo.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.dll
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.pdb
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.csprojAssemblyReference.cache
+C:\Users\Thinkpad\source\repos\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.deps.json
+C:\Users\Thinkpad\source\repos\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.dll
+C:\Users\Thinkpad\source\repos\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.pdb
+C:\Users\Thinkpad\source\repos\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\source\repos\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.AssemblyInfo.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.dll
+C:\Users\Thinkpad\source\repos\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.pdb
+C:\Users\Thinkpad\source\repos\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.csprojAssemblyReference.cache
+F:\VietGis\Hello VietGis\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.deps.json
+F:\VietGis\Hello VietGis\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.dll
+F:\VietGis\Hello VietGis\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.pdb
+F:\VietGis\Hello VietGis\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.csprojAssemblyReference.cache
+F:\VietGis\Hello VietGis\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.csproj.CoreCompileInputs.cache
+F:\VietGis\Hello VietGis\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.AssemblyInfoInputs.cache
+F:\VietGis\Hello VietGis\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.AssemblyInfo.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.dll
+F:\VietGis\Hello VietGis\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.pdb
+D:\Skype Downloads\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.deps.json
+D:\Skype Downloads\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.dll
+D:\Skype Downloads\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.pdb
+D:\Skype Downloads\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.csprojAssemblyReference.cache
+D:\Skype Downloads\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.csproj.CoreCompileInputs.cache
+D:\Skype Downloads\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.AssemblyInfoInputs.cache
+D:\Skype Downloads\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.AssemblyInfo.cs
+D:\Skype Downloads\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.dll
+D:\Skype Downloads\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.pdb
+D:\temp\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.deps.json
+D:\temp\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.dll
+D:\temp\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.pdb
+D:\temp\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.csprojAssemblyReference.cache
+D:\temp\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.csproj.CoreCompileInputs.cache
+D:\temp\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.AssemblyInfoInputs.cache
+D:\temp\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.AssemblyInfo.cs
+D:\temp\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.dll
+D:\temp\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.pdb
+D:\download\Sample_Dung\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.deps.json
+D:\download\Sample_Dung\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.dll
+D:\download\Sample_Dung\Sample\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.pdb
+D:\download\Sample_Dung\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.csprojAssemblyReference.cache
+D:\download\Sample_Dung\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.csproj.CoreCompileInputs.cache
+D:\download\Sample_Dung\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.AssemblyInfoInputs.cache
+D:\download\Sample_Dung\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.AssemblyInfo.cs
+D:\download\Sample_Dung\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.dll
+D:\download\Sample_Dung\Sample\MVCSample.Business\obj\Debug\netstandard2.0\MVCSample.Business.pdb

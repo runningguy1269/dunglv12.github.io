@@ -1,0 +1,268 @@
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.deps.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.runtimeconfig.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.runtimeconfig.dev.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.dll
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csprojAssemblyReference.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorAssemblyInfo.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorAssemblyInfo.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.AssemblyInfoInputs.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.AssemblyInfo.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.TagHelpers.input.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.TagHelpers.output.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorCoreGenerate.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorTargetAssemblyInfo.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorTargetAssemblyInfo.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business\bin\Debug\netstandard2.0\MVCSample.Business.deps.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business\obj\MVCSample.Business.csproj.nuget.dgspec.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business\obj\project.assets.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.deps.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.runtimeconfig.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.runtimeconfig.dev.json
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.dll
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business.dll
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business.pdb
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csprojAssemblyReference.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorAssemblyInfo.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorAssemblyInfo.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.AssemblyInfoInputs.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.AssemblyInfo.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.TagHelpers.input.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.TagHelpers.output.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorCoreGenerate.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorTargetAssemblyInfo.cache
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorTargetAssemblyInfo.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csproj.CopyComplete
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.dll
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.pdb
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.pdb
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Views.dll
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Views.pdb
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.Views.pdb
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\T470s\Documents\Visual Studio 2019\Projects\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\ViewItem.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.deps.json
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.runtimeconfig.json
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.runtimeconfig.dev.json
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.dll
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.pdb
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Views.dll
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Views.pdb
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business.dll
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business.pdb
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csprojAssemblyReference.cache
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorAssemblyInfo.cache
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorAssemblyInfo.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.AssemblyInfo.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.TagHelpers.input.cache
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.TagHelpers.output.cache
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorCoreGenerate.cache
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\ViewItem.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorTargetAssemblyInfo.cache
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorTargetAssemblyInfo.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.Views.pdb
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csproj.CopyComplete
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.dll
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.pdb
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Update.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Thinkpad\source\repos\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Product\ViewDetail.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\bin\Debug\netcoreapp2.2\appsettings.Development.json
+F:\VietGis\Hello VietGis\Sample\MVCSample\bin\Debug\netcoreapp2.2\appsettings.json
+F:\VietGis\Hello VietGis\Sample\MVCSample\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+F:\VietGis\Hello VietGis\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.deps.json
+F:\VietGis\Hello VietGis\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.runtimeconfig.json
+F:\VietGis\Hello VietGis\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.runtimeconfig.dev.json
+F:\VietGis\Hello VietGis\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.dll
+F:\VietGis\Hello VietGis\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.pdb
+F:\VietGis\Hello VietGis\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Views.dll
+F:\VietGis\Hello VietGis\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Views.pdb
+F:\VietGis\Hello VietGis\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business.dll
+F:\VietGis\Hello VietGis\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business.pdb
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csprojAssemblyReference.cache
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csproj.CoreCompileInputs.cache
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorAssemblyInfo.cache
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorAssemblyInfo.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.AssemblyInfoInputs.cache
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.AssemblyInfo.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.TagHelpers.input.cache
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.TagHelpers.output.cache
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorCoreGenerate.cache
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Create.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Index.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Update.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\ViewItem.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Product\ViewDetail.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorTargetAssemblyInfo.cache
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorTargetAssemblyInfo.cs
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.Views.pdb
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csproj.CopyComplete
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.dll
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.pdb
+F:\VietGis\Hello VietGis\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.genruntimeconfig.cache
+D:\Skype Downloads\Sample\MVCSample\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Skype Downloads\Sample\MVCSample\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Skype Downloads\Sample\MVCSample\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Skype Downloads\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.deps.json
+D:\Skype Downloads\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.runtimeconfig.json
+D:\Skype Downloads\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.runtimeconfig.dev.json
+D:\Skype Downloads\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.dll
+D:\Skype Downloads\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.pdb
+D:\Skype Downloads\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Views.dll
+D:\Skype Downloads\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Views.pdb
+D:\Skype Downloads\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business.dll
+D:\Skype Downloads\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business.pdb
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csprojAssemblyReference.cache
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorAssemblyInfo.cache
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorAssemblyInfo.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.AssemblyInfoInputs.cache
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.AssemblyInfo.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.TagHelpers.input.cache
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.TagHelpers.output.cache
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorCoreGenerate.cache
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Create.cshtml.g.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Index.cshtml.g.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Update.cshtml.g.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\ViewItem.cshtml.g.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.cshtml.g.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Product\ViewDetail.cshtml.g.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorTargetAssemblyInfo.cache
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorTargetAssemblyInfo.cs
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.Views.pdb
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csproj.CopyComplete
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.dll
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.pdb
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.genruntimeconfig.cache
+D:\Skype Downloads\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csproj.CoreCompileInputs.cache
+D:\temp\Sample\MVCSample\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\temp\Sample\MVCSample\bin\Debug\netcoreapp2.2\appsettings.json
+D:\temp\Sample\MVCSample\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\temp\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.deps.json
+D:\temp\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.runtimeconfig.json
+D:\temp\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.runtimeconfig.dev.json
+D:\temp\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.dll
+D:\temp\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.pdb
+D:\temp\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Views.dll
+D:\temp\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Views.pdb
+D:\temp\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business.dll
+D:\temp\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business.pdb
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csprojAssemblyReference.cache
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csproj.CoreCompileInputs.cache
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorAssemblyInfo.cache
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorAssemblyInfo.cs
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.AssemblyInfoInputs.cache
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.AssemblyInfo.cs
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.TagHelpers.input.cache
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.TagHelpers.output.cache
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorCoreGenerate.cache
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Index.cshtml.g.cs
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorTargetAssemblyInfo.cache
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorTargetAssemblyInfo.cs
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.Views.pdb
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csproj.CopyComplete
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.dll
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.pdb
+D:\temp\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.genruntimeconfig.cache
+D:\download\Sample_Dung\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.deps.json
+D:\download\Sample_Dung\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.runtimeconfig.json
+D:\download\Sample_Dung\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.runtimeconfig.dev.json
+D:\download\Sample_Dung\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.dll
+D:\download\Sample_Dung\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.pdb
+D:\download\Sample_Dung\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Views.dll
+D:\download\Sample_Dung\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Views.pdb
+D:\download\Sample_Dung\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business.dll
+D:\download\Sample_Dung\Sample\MVCSample\bin\Debug\netcoreapp2.2\MVCSample.Business.pdb
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csprojAssemblyReference.cache
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csproj.CoreCompileInputs.cache
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorAssemblyInfo.cache
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorAssemblyInfo.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.AssemblyInfoInputs.cache
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.AssemblyInfo.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.TagHelpers.input.cache
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.TagHelpers.output.cache
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorCoreGenerate.cache
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Create.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Delete.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Edit.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\Index.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\_Delete.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorTargetAssemblyInfo.cache
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.RazorTargetAssemblyInfo.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.Views.pdb
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.csproj.CopyComplete
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.dll
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\MVCSample.pdb
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Category\_ResultTable.g.cshtml.cs
+D:\download\Sample_Dung\Sample\MVCSample\obj\Debug\netcoreapp2.2\Razor\Views\Product\_ResultTable.g.cshtml.cs
